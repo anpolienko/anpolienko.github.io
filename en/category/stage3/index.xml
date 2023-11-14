@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stage3 | Academic</title>
+    <link>https://example.com/en/category/stage3/</link>
+      <atom:link href="https://example.com/en/category/stage3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stage3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Stage3</title>
+      <link>https://example.com/en/category/stage3/</link>
+    </image>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://example.com/en/post/latex-post/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/latex-post/</guid>
+      <description>&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
+&lt;p&gt;LaTeX, software used for typesetting technical documents.&lt;/p&gt;
+&lt;p&gt;LaTeX is a free software package created in 1985 by the American computer scientist Leslie Lamport as an addition to the TeX typesetting system. LaTeX was created to make it easier to produce general-purpose books and articles within TeX. Because LaTeX is an extension to the TeX typesetting system, it has TeX’s ability to typeset technical documents that contain complex mathematical equations. This feature made LaTeX popular with scientists and engineers. (Because the name TeX actually consists of the Greek letters tau, epsilon, and chi, it is pronounced /tekh/.)&lt;/p&gt;
+&lt;p&gt;Producing a LaTeX document begins with a text file containing content that is tagged with special LaTeX codes used to indicate how the text will be styled. When the file is run through a LaTeX processor, typeset pages are produced. Because LaTeX typesetting requires wrapping text in complicated computer codes, it has a fairly steep learning curve. Although there are now software programs that help automate the creation of LaTeX documents, a working knowledge of LaTeX is still desirable for this kind of typesetting.&lt;/p&gt;
+&lt;p&gt;LaTeX was one of the first typesetting programs able to produce complex mathematical equations. Over the years it has been used to typeset many science, mathematics, and engineering journals. The American Mathematical Society (AMS) even has its own set of extensions, called AMS-LaTeX, that contributors use for its journal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s continue our journey</title>
+      <link>https://example.com/en/post/second-post/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/second-post/</guid>
+      <description>&lt;h2 id=&#34;my-week-2&#34;&gt;My week. 2.&lt;/h2&gt;
+&lt;p&gt;October continues. Today let&amp;rsquo;s talk about my favotite coctail - Gin &amp;amp; Tonic.&lt;/p&gt;
+&lt;p&gt;Gin &amp;amp; Tonic. If you can say it, you can make it. Right? Right. But also, not exactly. The two-ingredient cocktail requires your undivided attention. From glassware to garnish to style of gin and spirit proof, everything should be carefully considered when mixing a G&amp;amp;T.&lt;/p&gt;
+&lt;p&gt;A Gin &amp;amp; Tonic made with a potent base—45% ABV and above, if you mean business—and configured with two parts tonic to one part gin is a highball of balance and beauty. Too much gin, and the botanical spirit will overshadow the unique qualities of the tonic. Too much tonic, and it will drown the gin.&lt;/p&gt;
+&lt;p&gt;There is endless room for experimentation within those two ingredients. With hundreds of gins on the market and dozens of tonics, a good G&amp;amp;T is a mix-and-match exercise to find the combination that best suits your tastes. London dry gins are characterized by their juniper-forward flavor profile; modern-style gins often dial down the juniper and ramp up the citrus and florals. Some tonics are dry and straightforward, with prominent notes of bitter quinine. Others are sweet and syrupy. And in between, you’ll find tonics featuring everything from citrus and aromatics to herbs and spice. Then, of course, there’s the garnish. Many people swear by a lime. Others choose a lemon, and still others prefer a grapefruit slice or rosemary sprig, or a seasonal garnish such as blood orange and thyme.&lt;/p&gt;
+&lt;p&gt;All those permutations results in a bevy of Gin &amp;amp; Tonics, so naturally, the drink lends itself to creativity. Muddled cucumbers or fruit provide an extra dose of refreshment, and a measure of dry vermouth softens the cocktail. Liqueurs, fresh herbs and even barrel-aged gin are all fair game when you’re making G&amp;amp;Ts. It’s an impressive résumé for a drink that traces its roots to quinine powder, which was used in the 1840s as an antimalarial for British soldiers and citizens in India.&lt;/p&gt;
+&lt;p&gt;Originally, the bitter quinine powder was mixed with soda and sugar to make it more palatable. It wasn’t long before enterprising sorts bottled the elixir for commercial use. And soon after that, tonic made its way into gin.&lt;/p&gt;
+&lt;p&gt;Today, tonic features less quinine than past products, and it has a sweeter taste. But its ability to complement gin is unparalleled among mixers. Put the two together in a glass, and you can taste one of the cocktail canon’s best pairings and raise your glass to the knowledge that Gin &amp;amp; Tonics are, essentially, medicine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INGREDIENTS:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 ounces gin&lt;/li&gt;
+&lt;li&gt;6 ounces tonic water (you can use 4 ounces for stronger flavour)&lt;/li&gt;
+&lt;li&gt;Garnish: 2 lime wheels or other seasonal garnishes you may prefer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STEPS:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Fill a highball glass with ice, then add the gin.&lt;/li&gt;
+&lt;li&gt;Top with the tonic water and gently stir.&lt;/li&gt;
+&lt;li&gt;Garnish with lime wheels or seasonal garnishes&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://example.com/en/tag/academic/</link>
+      <atom:link href="https://example.com/en/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/en/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>How to Make a Presentation</title>
+      <link>https://example.com/en/post/presentation-post/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/presentation-post/</guid>
+      <description>&lt;p&gt;A presentation goes beyond the idea of crafting a catchy document to present in front of an audience. It is an art in which a person relies on communication skills to introduce a topic relevant to a group of people, regardless of its size. Different elements participate in this communication process, such as body language, presentation skills, visual tools, etc. and are key in delivering an effective presentation.&lt;/p&gt;
+&lt;p&gt;In this article, we shall present a detailed guide on how to make a presentation, intended both for newcomers in this subject but also for professional presenters who seek to improve the performance of their presentations. Let’s get started.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-presentation-and-what-is-a-powerpoint-presentation&#34;&gt;What is a presentation, and what is a PowerPoint presentation?&lt;/h2&gt;
+&lt;p&gt;It is essential to highlight the difference between Presentation and PowerPoint Presentation, often interchangeable terms. &lt;strong&gt;One thing is a presentation, an audiovisual form of communication to present information. A PowerPoint presentation is a subset of a presentation.&lt;/strong&gt; Since PowerPoint remains the leading tool in the market for creating presentations, the term was coined by both spectators and presenters. Let’s begin by checking the main differences between the two terms.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-a-presentation&#34;&gt;What is a presentation?&lt;/h3&gt;
+&lt;p&gt;A presentation is any situation in which a person or group has to transmit a message in front of an audience. The format by which the audience attends can answer the following categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Live crowd:&lt;/strong&gt; A presentation in which the average number of spectators exceeds 100 people.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Massive event:&lt;/strong&gt; Similar to the format above, but we speak about thousands of spectators. This format has specific requirements regarding scenario setup and logistics, and the usual presenters are influencers in worldwide conferences or corporate events (like All-Hands meetings).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Private event:&lt;/strong&gt; A selected number of attendants can listen to the presenter. Coaching sessions are the leading kind of private event for presenters, but multiple other categories can fit into this format.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Online event:&lt;/strong&gt; Following the trends of remote working and what the pandemic has left us in terms of digital immersion, multiple events shifted their large attendance numbers in favor of online settings. This has the advantage of a narrowed setting, as the area in which the presenter has to stand is considerably reduced – with simpler A/V inputs. Attendees are given a link to the event and watch from their computers or mobile devices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Offline event:&lt;/strong&gt; This medium is what we consume via YouTube videos. Behind each and every YouTube video is countless hours of content development, editing, rehearsing a presentation, and so forth. We call it offline because attendees can browse the content at any time, replaying as desired, unlike Online Events in which the attendees must be logged in to a specific platform. No interaction with the presenter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hybrid event:&lt;/strong&gt; This is a format coined by large tech companies, the automobile industry, and even fashion brands. The idea is to create an event where a selected number of attendees are allowed to participate (using the Private Event model). Still, at the same time, the event is streamed for users worldwide (Online Event) and/or available on the official social media networks of the brand (Offline Event).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each one of these formats exposed above has specific requirements in terms of interaction with the audience. For example, in-company presentations will differ from common presentations that seek to capture the interest of new consumers. It is vital to establish the presentation’s intent from the very first moment and then narrow it down according to the topic to present, as well as the knowledge level of your target audience.&lt;/p&gt;
+&lt;p&gt;A presentation does not require a slide deck. It is a tool presenters use to make the content more interesting for the audience and also memorable. However, it is well-known that influencer speakers such as Tony Robbins or Warren Buffet ignore PPT documents altogether, preferring to articulate their narrative on the go.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-a-powerpoint-presentation&#34;&gt;What is a PowerPoint presentation?&lt;/h3&gt;
+&lt;p&gt;As mentioned before, a PowerPoint presentation is a specific type of presentation, which involves the usage of a slide deck crafted with PowerPoint. This kind of tool allows presenters to communicate a message through a vast range of mediums, such as images, graphs &amp;amp; charts, audio, and video for a better impact.&lt;/p&gt;
+&lt;p&gt;Creating a PowerPoint presentation is an easy process, and there are two routes for it: working from a blank slide or using PowerPoint templates.&lt;/p&gt;
+&lt;p&gt;Some of the advantages of building a PowerPoint presentation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Better information retention by the audience, thanks to visual cues.&lt;/li&gt;
+&lt;li&gt;Improves the audience’s focus.&lt;/li&gt;
+&lt;li&gt;Easy to create powerful graphics.&lt;/li&gt;
+&lt;li&gt;Templates are editable, meaning you can repurpose the original designs to meet your standards.&lt;/li&gt;
+&lt;li&gt;Saves time to create presentations thanks to its user-friendly UI.&lt;/li&gt;
+&lt;li&gt;Encourages teaching and learning processes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-importance-of-a-good-powerpoint-presentation&#34;&gt;The Importance of a good PowerPoint presentation&lt;/h2&gt;
+&lt;p&gt;There are some elements that presenters must take into account when creating a PowerPoint presentation. It’s not just drag-and-drop, then magic happens. Creating a PowerPoint presentation involves a process of generating the graphic content to display and the narrative around it. The purpose of PowerPoint is to serve as a tool to enhance communication, not to make it overly complex.&lt;/p&gt;
+&lt;p&gt;We emphasize the relevance of working the speech and graphic content together since the speech itself gives the timeframes for each slide, what elements it contains, or whether it is relevant to use a slide or not to speak about a topic.&lt;/p&gt;
+&lt;p&gt;Some points to highlight:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenters often use the element of surprise. This means a presentation can start without a slide, use a video, or involve a discussion between two parties, then jump to the slide deck presentation. More on this topic later on.&lt;/li&gt;
+&lt;li&gt;A good PowerPoint presentation can be your introduction card in multiple professional settings. The effort you put in terms of design and content shall pay back over time in contacts or business deals.&lt;/li&gt;
+&lt;li&gt;Having a spare copy of your presentation, preferably in Google Slides presentation format, is a safe-proof technique in case the PPT file gets corrupted. The aesthetic remains the same and can be browsed by any computer with internet access.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://example.com/en/post/latex-post/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/latex-post/</guid>
+      <description>&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
+&lt;p&gt;LaTeX, software used for typesetting technical documents.&lt;/p&gt;
+&lt;p&gt;LaTeX is a free software package created in 1985 by the American computer scientist Leslie Lamport as an addition to the TeX typesetting system. LaTeX was created to make it easier to produce general-purpose books and articles within TeX. Because LaTeX is an extension to the TeX typesetting system, it has TeX’s ability to typeset technical documents that contain complex mathematical equations. This feature made LaTeX popular with scientists and engineers. (Because the name TeX actually consists of the Greek letters tau, epsilon, and chi, it is pronounced /tekh/.)&lt;/p&gt;
+&lt;p&gt;Producing a LaTeX document begins with a text file containing content that is tagged with special LaTeX codes used to indicate how the text will be styled. When the file is run through a LaTeX processor, typeset pages are produced. Because LaTeX typesetting requires wrapping text in complicated computer codes, it has a fairly steep learning curve. Although there are now software programs that help automate the creation of LaTeX documents, a working knowledge of LaTeX is still desirable for this kind of typesetting.&lt;/p&gt;
+&lt;p&gt;LaTeX was one of the first typesetting programs able to produce complex mathematical equations. Over the years it has been used to typeset many science, mathematics, and engineering journals. The American Mathematical Society (AMS) even has its own set of extensions, called AMS-LaTeX, that contributors use for its journal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control System. Git.</title>
+      <link>https://example.com/en/post/git-post/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/git-post/</guid>
+      <description>&lt;h2 id=&#34;version-control-system-git&#34;&gt;Version Control System. Git.&lt;/h2&gt;
+&lt;p&gt;Version Control Systems (VCS) are used when several people work on one project. Typically, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the content of the project, the version control system allows you to record them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
+&lt;p&gt;Classic version control systems use a centralized model, which involves a single repository for storing files. Most version control functions are performed by a dedicated server. Before starting work, a project participant (user) receives the version of files he needs using certain commands. After making changes, the user posts the new version to the repository. However, previous versions are not deleted from the central storage and can be returned to at any time. The server can not save the full version of the changed files, but perform so-called delta compression - saving only changes between successive versions, which allows reducing the amount of stored data.&lt;/p&gt;
+&lt;p&gt;Version control systems support the ability to track and resolve conflicts that may arise when multiple people are working on the same file. You can combine (merge) changes made by different participants (automatically or manually), manually select the desired version, discard changes altogether, or lock files for change. Depending on the settings, the lock prevents other users from obtaining a working copy or prevents the working copy of the file from being modified by the OS file system, thus providing privileged access to only one user working with the file.&lt;/p&gt;
+&lt;p&gt;Version control systems can also provide additional, more flexible functionality. For example, they can support multiple versions of a single file, maintaining a shared history of changes up to the point of a version branch and each branch&amp;rsquo;s own history of changes. In addition, information is usually available about which participants made what changes, when, and what changes. Typically this type of information is stored in a change log, access to which can be restricted.&lt;/p&gt;
+&lt;p&gt;Unlike classic ones, in distributed version control systems a central repository is not required.&lt;/p&gt;
+&lt;p&gt;Among the classic VCS, the most famous are CVS, Subversion, and among the distributed ones - Git, Bazaar, Mercurial. The principles of their operation are similar; they differ mainly in the syntax of the commands used in their work.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
