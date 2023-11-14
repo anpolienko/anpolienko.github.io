@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stage5 | Сайтик</title>
-    <link>https://anpolienko.github.io/category/stage5/</link>
-      <atom:link href="https://anpolienko.github.io/category/stage5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anpolienko.github.io/ru/category/stage5/</link>
+      <atom:link href="https://anpolienko.github.io/ru/category/stage5/index.xml" rel="self" type="application/rss+xml" />
     <description>Stage5</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://anpolienko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anpolienko.github.io/en/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Stage5</title>
-      <link>https://anpolienko.github.io/category/stage5/</link>
+      <link>https://anpolienko.github.io/ru/category/stage5/</link>
     </image>
     
     <item>
       <title>Обзор языков программирования</title>
-      <link>https://anpolienko.github.io/post/prog-post/</link>
+      <link>https://anpolienko.github.io/ru/post/prog-post/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://anpolienko.github.io/post/prog-post/</guid>
+      <guid>https://anpolienko.github.io/ru/post/prog-post/</guid>
       <description>&lt;p&gt;В наши дни невозможно представить жизнь без использования компьютеров и смартфонов. Большинство повседневных дел выполняется с помощью приложений и онлайн покупок. Вызвать такси, узнать о скидках в различных супермаркетах, примерить виртуальный гардероб, воспользоваться картой и многое другое делается при помощи мобильных приложений. А чтобы создать такое приложение, нужно быть программистом. Поэтому многие взрослые и даже подростки задумываются о том, чтобы овладеть основами кодинга и получить новую высокооплачиваемую и востребованную профессию.&lt;/p&gt;
 &lt;p&gt;В первую очередь при выборе языка стоит определиться с той сферой, где вы планируете его использовать. Самые распространенные на сегодняшний день области применения компьютерных языков – это веб-разработки, мобильные приложения и компьютерные игры. Но это не значит, что стоит не обращать внимание на другие сферы. Специалисты узких специальной тоже бывают очень востребованы. Поэтому мы рассмотрим различные языки в рамках тех областей, где они используются.&lt;/p&gt;
 &lt;h2 id=&#34;фронтенд&#34;&gt;Фронтенд&lt;/h2&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>Прощайте рецепты напитков</title>
-      <link>https://anpolienko.github.io/post/fourth-post/</link>
+      <link>https://anpolienko.github.io/ru/post/fourth-post/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://anpolienko.github.io/post/fourth-post/</guid>
+      <guid>https://anpolienko.github.io/ru/post/fourth-post/</guid>
       <description>&lt;h2 id=&#34;моя-неделя-4&#34;&gt;Моя неделя. 4.&lt;/h2&gt;
 &lt;p&gt;Некоторые продвинутые бары в крупных городах начали предлагать своим посетителям модный и необычный напиток – чай с пузырьками. Второе название – жемчужный или пенистый чай. От обычных коктейлей этот напиток отличается наличием «жемчужин» – шариков, сделанных из тапиоки. Напиток появился на Тайване почти 40 лет назад. Изначально основой был горячий черный чай, в которой добавляли сгущенное молоко, сироп или мед, тапиоку. Сейчас это обычно прохладительный напиток на основе холодного чая, необязательно чёрного. В холодное время года Bubble tea можно подавать горячим.&lt;/p&gt;
 &lt;p&gt;Насладиться вкусом необычного напитка можно и дома, если приобрести необходимые компоненты. Для подачи понадобятся высокие стаканы и трубочки для коктейля такого диаметра, чтобы можно было захватить шарики тапиоки.&lt;/p&gt;

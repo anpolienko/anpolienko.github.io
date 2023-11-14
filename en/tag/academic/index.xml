@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Website</title>
-    <link>https://anpolienko.github.io/tag/academic/</link>
-      <atom:link href="https://anpolienko.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anpolienko.github.io/en/tag/academic/</link>
+      <atom:link href="https://anpolienko.github.io/en/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://anpolienko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anpolienko.github.io/en/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://anpolienko.github.io/tag/academic/</link>
+      <link>https://anpolienko.github.io/en/tag/academic/</link>
     </image>
     
     <item>
       <title>Scientific programming language</title>
-      <link>https://anpolienko.github.io/post/prog-post/</link>
+      <link>https://anpolienko.github.io/en/post/prog-post/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://anpolienko.github.io/post/prog-post/</guid>
+      <guid>https://anpolienko.github.io/en/post/prog-post/</guid>
       <description>&lt;p&gt;In computer programming, a scientific programming language can refer to two degrees of the same concept.&lt;/p&gt;
 &lt;p&gt;In a wide sense, a scientific programming language is a programming language that is used widely for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
 &lt;p&gt;In a stronger sense, a scientific programming language is one that is designed and optimized for the use of mathematical formula and matrices. Such languages are characterized not only by the availability of libraries performing mathematical or scientific functions, but by the syntax of the language itself. For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication etc.); instead, this functionality is made available through standard libraries. Scientific programming languages in the stronger sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB and R.&lt;/p&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>How to Make a Presentation</title>
-      <link>https://anpolienko.github.io/post/presentation-post/</link>
+      <link>https://anpolienko.github.io/en/post/presentation-post/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://anpolienko.github.io/post/presentation-post/</guid>
+      <guid>https://anpolienko.github.io/en/post/presentation-post/</guid>
       <description>&lt;p&gt;A presentation goes beyond the idea of crafting a catchy document to present in front of an audience. It is an art in which a person relies on communication skills to introduce a topic relevant to a group of people, regardless of its size. Different elements participate in this communication process, such as body language, presentation skills, visual tools, etc. and are key in delivering an effective presentation.&lt;/p&gt;
 &lt;p&gt;In this article, we shall present a detailed guide on how to make a presentation, intended both for newcomers in this subject but also for professional presenters who seek to improve the performance of their presentations. Let’s get started.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-presentation-and-what-is-a-powerpoint-presentation&#34;&gt;What is a presentation, and what is a PowerPoint presentation?&lt;/h2&gt;
@@ -75,9 +75,9 @@
     
     <item>
       <title>LaTeX</title>
-      <link>https://anpolienko.github.io/post/latex-post/</link>
+      <link>https://anpolienko.github.io/en/post/latex-post/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anpolienko.github.io/post/latex-post/</guid>
+      <guid>https://anpolienko.github.io/en/post/latex-post/</guid>
       <description>&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
 &lt;p&gt;LaTeX, software used for typesetting technical documents.&lt;/p&gt;
 &lt;p&gt;LaTeX is a free software package created in 1985 by the American computer scientist Leslie Lamport as an addition to the TeX typesetting system. LaTeX was created to make it easier to produce general-purpose books and articles within TeX. Because LaTeX is an extension to the TeX typesetting system, it has TeX’s ability to typeset technical documents that contain complex mathematical equations. This feature made LaTeX popular with scientists and engineers. (Because the name TeX actually consists of the Greek letters tau, epsilon, and chi, it is pronounced /tekh/.)&lt;/p&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>Version Control System. Git.</title>
-      <link>https://anpolienko.github.io/post/git-post/</link>
+      <link>https://anpolienko.github.io/en/post/git-post/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anpolienko.github.io/post/git-post/</guid>
+      <guid>https://anpolienko.github.io/en/post/git-post/</guid>
       <description>&lt;h2 id=&#34;version-control-system-git&#34;&gt;Version Control System. Git.&lt;/h2&gt;
 &lt;p&gt;Version Control Systems (VCS) are used when several people work on one project. Typically, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the content of the project, the version control system allows you to record them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
 &lt;p&gt;Classic version control systems use a centralized model, which involves a single repository for storing files. Most version control functions are performed by a dedicated server. Before starting work, a project participant (user) receives the version of files he needs using certain commands. After making changes, the user posts the new version to the repository. However, previous versions are not deleted from the central storage and can be returned to at any time. The server can not save the full version of the changed files, but perform so-called delta compression - saving only changes between successive versions, which allows reducing the amount of stored data.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stage5 | Website</title>
-    <link>https://anpolienko.github.io/category/stage5/</link>
-      <atom:link href="https://anpolienko.github.io/category/stage5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anpolienko.github.io/en/category/stage5/</link>
+      <atom:link href="https://anpolienko.github.io/en/category/stage5/index.xml" rel="self" type="application/rss+xml" />
     <description>Stage5</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://anpolienko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anpolienko.github.io/en/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Stage5</title>
-      <link>https://anpolienko.github.io/category/stage5/</link>
+      <link>https://anpolienko.github.io/en/category/stage5/</link>
     </image>
     
     <item>
       <title>Farewell Recipes for Drinks</title>
-      <link>https://anpolienko.github.io/post/fourth-post/</link>
+      <link>https://anpolienko.github.io/en/post/fourth-post/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://anpolienko.github.io/post/fourth-post/</guid>
+      <guid>https://anpolienko.github.io/en/post/fourth-post/</guid>
       <description>&lt;h2 id=&#34;my-week-4&#34;&gt;My week. 4.&lt;/h2&gt;
 &lt;p&gt;Have you ever wanted to learn How to Make Bubble Tea? Here you’ll find everything you need to know to make creamy, delicious, and surprisingly simple bubble tea right at home using simple ingredients like black tea, tapioca pearls, and sugar.&lt;/p&gt;
 &lt;p&gt;With shops selling this hip and trendy iced beverage on practically every street corner these days, I thought it would be fun to share everything I know about Bubble Tea with you guys.&lt;/p&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>Scientific programming language</title>
-      <link>https://anpolienko.github.io/post/prog-post/</link>
+      <link>https://anpolienko.github.io/en/post/prog-post/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://anpolienko.github.io/post/prog-post/</guid>
+      <guid>https://anpolienko.github.io/en/post/prog-post/</guid>
       <description>&lt;p&gt;In computer programming, a scientific programming language can refer to two degrees of the same concept.&lt;/p&gt;
 &lt;p&gt;In a wide sense, a scientific programming language is a programming language that is used widely for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
 &lt;p&gt;In a stronger sense, a scientific programming language is one that is designed and optimized for the use of mathematical formula and matrices. Such languages are characterized not only by the availability of libraries performing mathematical or scientific functions, but by the syntax of the language itself. For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication etc.); instead, this functionality is made available through standard libraries. Scientific programming languages in the stronger sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB and R.&lt;/p&gt;
