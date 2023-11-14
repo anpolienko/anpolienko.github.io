@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://anpolienko.github.io/tag/academic/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://anpolienko.github.io/categories/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -59,8 +59,88 @@
                 />
   </url><url>
     <loc>https://anpolienko.github.io/post/fourth-post/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://anpolienko.github.io/post/fourth-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/fourth-post/"
+                />
+  </url><url>
+    <loc>https://anpolienko.github.io/tag/personal/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://anpolienko.github.io/tag/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anpolienko.github.io/tag/personal/"
+                />
+  </url><url>
+    <loc>https://anpolienko.github.io/post/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://anpolienko.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/"
+                />
+  </url><url>
+    <loc>https://anpolienko.github.io/post/prog-post/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://anpolienko.github.io/post/prog-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/prog-post/"
+                />
+  </url><url>
+    <loc>https://anpolienko.github.io/category/stage5/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://anpolienko.github.io/category/stage5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anpolienko.github.io/category/stage5/"
+                />
+  </url><url>
+    <loc>https://anpolienko.github.io/tags/</loc>
+    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://anpolienko.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anpolienko.github.io/tags/"
+                />
   </url><url>
     <loc>https://anpolienko.github.io/post/presentation-post/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
@@ -90,34 +170,6 @@
                 href="https://anpolienko.github.io/post/third-post/"
                 />
   </url><url>
-    <loc>https://anpolienko.github.io/tag/personal/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://anpolienko.github.io/tag/personal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://anpolienko.github.io/tag/personal/"
-                />
-  </url><url>
-    <loc>https://anpolienko.github.io/post/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://anpolienko.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://anpolienko.github.io/post/"
-                />
-  </url><url>
     <loc>https://anpolienko.github.io/category/stage4/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -130,24 +182,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://anpolienko.github.io/category/stage4/"
-                />
-  </url><url>
-    <loc>https://anpolienko.github.io/category/stage5/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://anpolienko.github.io/tags/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://anpolienko.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://anpolienko.github.io/tags/"
                 />
   </url><url>
     <loc>https://anpolienko.github.io/post/latex-post/</loc>
