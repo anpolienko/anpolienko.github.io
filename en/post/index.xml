@@ -1,22 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>https://example.com/en/post/</link>
-      <atom:link href="https://example.com/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Website</title>
+    <link>https://anpolienko.github.io/post/</link>
+      <atom:link href="https://anpolienko.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anpolienko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/en/post/</link>
+      <link>https://anpolienko.github.io/post/</link>
     </image>
     
     <item>
-      <title>How to Make a Presentation</title>
-      <link>https://example.com/en/post/presentation-post/</link>
+      <title>Farewell Recipes for Drinks</title>
+      <link>https://anpolienko.github.io/post/fourth-post/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/presentation-post/</guid>
+      <guid>https://anpolienko.github.io/post/fourth-post/</guid>
+      <description>&lt;h2 id=&#34;my-week-3&#34;&gt;My week. 3.&lt;/h2&gt;
+&lt;p&gt;Have you ever wanted to learn How to Make Bubble Tea? Here you’ll find everything you need to know to make creamy, delicious, and surprisingly simple bubble tea right at home using simple ingredients like black tea, tapioca pearls, and sugar.&lt;/p&gt;
+&lt;p&gt;With shops selling this hip and trendy iced beverage on practically every street corner these days, I thought it would be fun to share everything I know about Bubble Tea with you guys.&lt;/p&gt;
+&lt;p&gt;Whether you’re new to bubble tea, or you drink it all the time, in this post you’ll find everything you need to know to make simple delicious homemade bubble milk tea at home. I love this version best because it isn’t too sweet, the ingredients are super basic, and it’s ready super fast.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-bubble-tea&#34;&gt;What is Bubble Tea?&lt;/h2&gt;
+&lt;p&gt;Bubble tea is a Taiwanese tea-based beverage that goes by the names &lt;em&gt;milk tea, pearl tea, tapioca tea, boba tea, boba nai cha, foam milk tea&lt;/em&gt;, and several others.&lt;/p&gt;
+&lt;p&gt;Invented in the 1980s, the exact story of who invented Bubble Tea is somewhat debated, however, it is believed that Ms. Lin Hsiu Hui of the Chun Shui Tang Tea Shop in Taichung, Taiwan, came up with the drink when she randomly poured fen yuan into her iced tea during a meeting in 1988.&lt;/p&gt;
+&lt;p&gt;Fast forward three decades and this discovery of milk tea mixed with tapioca balls have evolved into hundreds of different unique bubble tea flavor combinations. Bubble tea shops are seemingly everywhere these days (I know of at least three within two miles of my house) and the color varieties, thanks to all the different flavors (like green tea, strawberry, taro, and mango!) seem to keep getting cooler and cooler.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-boba&#34;&gt;What is Boba?&lt;/h2&gt;
+&lt;p&gt;Often synonymous with bubble tea, Boba is actually the little black balls that sink to the bottom of your bubble tea.&lt;/p&gt;
+&lt;p&gt;Boba pearls are made from partially cooked tapioca flour – the refined starch extracted from the cassava root. Boba is gluten-free and, in its natural state, flavorless. Loved for its chewy texture, Boba can be added to both hot and cold drinks including hot teas or smoothies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;INGREDIENTS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here’s what you’ll need to make this mint mojito recipe:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tea&lt;/strong&gt; – I used a simple English Breakfast Black Tea. High in caffeine (how I like it), it’s what I had on hand and it worked perfectly. Oolong tea would also work nicely, or any other robust black tea. Don’t worry about over-steeping your tea since you will be adding milk (or cream) and some sugar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Milk&lt;/strong&gt; – I like to use whole milk or half-and-half. Heavy cream is too heavy and low-fat milk doesn’t quite add enough creaminess. Dairy milk and creamer, or full-fat coconut milk are my top picks, but other plant-based milk alternatives (soy milk, almond milk, oat milk) will work, too. For an extra creamy treat, try adding sweetened condensed milk.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sweetener&lt;/strong&gt; – The benefit of making bubble tea at home is that you can add as much or as little sugar as you like. The total amount will vary depending on the type of milk you use, how long you steep your tea, and personal preference. In this recipe, I used granulated white sugar, but simple syrup, honey, or agave would also work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ice&lt;/strong&gt; – Of course, these days bubble tea may come either hot or cold. However, in this case, you’ll need ice. Depending on how cool your tea gets will determine how much ice you’ll need.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tapioca Pearls (or boba)&lt;/strong&gt; –  This is the boba that I used to make this bubble tea recipe. It is the fast-cooking kind, which means that they don’t take over an hour to cook. In fact, they take just 5-10 minutes. There is one very important thing to note about quick-cooking tapioca pearls – do not make them ahead of time. After just 1-2 hours they will start to stiffen and dry out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;STEPS:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ready to learn how to make a mojito? Here’s what you need to do:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Steep the tea:&lt;/strong&gt; Bring approximately 6 cups of water just to a boil and remove from heat. Stir in the sugar and add the tea bags(for this recipe, I added approximately 1 tablespoon of sugar per glass of bubble tea). Allow the tea to steep and come to room temperature. If you’re in a hurry, you may either prepare the black tea ahead of time or transfer the steeping tea to the refrigerator to speed up the cooling process. Allow the tea to steep for at least 15-25 minutes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prepare the boba (tapioca pearls):&lt;/strong&gt; Approximately 15 minutes before you plan to serve your bubble tea, bring a small pot of water to a boil. Add the boba and stir well to prevent them from clumping and sticking together. Allow the boba to cook for approximately 5-7 minutes (they should be floating on the surface and super chewy). Drain and rinse under cold water – don’t worry, they won’t fall apart.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assemble&lt;/strong&gt; Grab four glasses (any glass will work, just make sure they’re large enough to hold approximately 2 cups of liquid) and divide the cooked pearls between them. Fill each glass with ice and pour approximately 1 to 1 1/2 cups of room temperature black tea into each. Add approximately 2-3 (or more) tablespoons of milk or half-and-half to each glass and stir well to combine. Is it sweet enough? Add additional sweetener if needed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Make a Presentation</title>
+      <link>https://anpolienko.github.io/post/presentation-post/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://anpolienko.github.io/post/presentation-post/</guid>
       <description>&lt;p&gt;A presentation goes beyond the idea of crafting a catchy document to present in front of an audience. It is an art in which a person relies on communication skills to introduce a topic relevant to a group of people, regardless of its size. Different elements participate in this communication process, such as body language, presentation skills, visual tools, etc. and are key in delivering an effective presentation.&lt;/p&gt;
 &lt;p&gt;In this article, we shall present a detailed guide on how to make a presentation, intended both for newcomers in this subject but also for professional presenters who seek to improve the performance of their presentations. Let’s get started.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-presentation-and-what-is-a-powerpoint-presentation&#34;&gt;What is a presentation, and what is a PowerPoint presentation?&lt;/h2&gt;
@@ -59,9 +95,9 @@
     
     <item>
       <title>New Week New Recipe</title>
-      <link>https://example.com/en/post/third-post/</link>
+      <link>https://anpolienko.github.io/post/third-post/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/third-post/</guid>
+      <guid>https://anpolienko.github.io/post/third-post/</guid>
       <description>&lt;h2 id=&#34;my-week-3&#34;&gt;My week. 3.&lt;/h2&gt;
 &lt;p&gt;When life gives you mint leaves, what do you make? This mint mojito recipe!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;INGREDIENTS:&lt;/strong&gt;&lt;/p&gt;
@@ -88,9 +124,9 @@
     
     <item>
       <title>LaTeX</title>
-      <link>https://example.com/en/post/latex-post/</link>
+      <link>https://anpolienko.github.io/post/latex-post/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/latex-post/</guid>
+      <guid>https://anpolienko.github.io/post/latex-post/</guid>
       <description>&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
 &lt;p&gt;LaTeX, software used for typesetting technical documents.&lt;/p&gt;
 &lt;p&gt;LaTeX is a free software package created in 1985 by the American computer scientist Leslie Lamport as an addition to the TeX typesetting system. LaTeX was created to make it easier to produce general-purpose books and articles within TeX. Because LaTeX is an extension to the TeX typesetting system, it has TeX’s ability to typeset technical documents that contain complex mathematical equations. This feature made LaTeX popular with scientists and engineers. (Because the name TeX actually consists of the Greek letters tau, epsilon, and chi, it is pronounced /tekh/.)&lt;/p&gt;
@@ -101,9 +137,9 @@
     
     <item>
       <title>Let&#39;s continue our journey</title>
-      <link>https://example.com/en/post/second-post/</link>
+      <link>https://anpolienko.github.io/post/second-post/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/second-post/</guid>
+      <guid>https://anpolienko.github.io/post/second-post/</guid>
       <description>&lt;h2 id=&#34;my-week-2&#34;&gt;My week. 2.&lt;/h2&gt;
 &lt;p&gt;October continues. Today let&amp;rsquo;s talk about my favotite coctail - Gin &amp;amp; Tonic.&lt;/p&gt;
 &lt;p&gt;Gin &amp;amp; Tonic. If you can say it, you can make it. Right? Right. But also, not exactly. The two-ingredient cocktail requires your undivided attention. From glassware to garnish to style of gin and spirit proof, everything should be carefully considered when mixing a G&amp;amp;T.&lt;/p&gt;
@@ -129,9 +165,9 @@
     
     <item>
       <title>Hello, world</title>
-      <link>https://example.com/en/post/first-post/</link>
+      <link>https://anpolienko.github.io/post/first-post/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/first-post/</guid>
+      <guid>https://anpolienko.github.io/post/first-post/</guid>
       <description>&lt;h2 id=&#34;my-week-1&#34;&gt;My week. 1.&lt;/h2&gt;
 &lt;p&gt;October started. You can see how i designed my bullet journal for this month.&lt;/p&gt;
 &lt;p&gt;And here&amp;rsquo;s a mulled wine recipe to help you survive autumn.&lt;/p&gt;
@@ -168,9 +204,9 @@ Full ingredient amounts/instructions listed in the recipe below.&lt;/li&gt;
     
     <item>
       <title>Version Control System. Git.</title>
-      <link>https://example.com/en/post/git-post/</link>
+      <link>https://anpolienko.github.io/post/git-post/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/git-post/</guid>
+      <guid>https://anpolienko.github.io/post/git-post/</guid>
       <description>&lt;h2 id=&#34;version-control-system-git&#34;&gt;Version Control System. Git.&lt;/h2&gt;
 &lt;p&gt;Version Control Systems (VCS) are used when several people work on one project. Typically, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the content of the project, the version control system allows you to record them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
 &lt;p&gt;Classic version control systems use a centralized model, which involves a single repository for storing files. Most version control functions are performed by a dedicated server. Before starting work, a project participant (user) receives the version of files he needs using certain commands. After making changes, the user posts the new version to the repository. However, previous versions are not deleted from the central storage and can be returned to at any time. The server can not save the full version of the changed files, but perform so-called delta compression - saving only changes between successive versions, which allows reducing the amount of stored data.&lt;/p&gt;

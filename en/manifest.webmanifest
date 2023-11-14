@@ -1,7 +1,7 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
-  "lang": "en-us",
+  "name": "Website",
+  "short_name": "Website",
+  "lang": "en",
   "theme_color": "#ff3860",
   "background_color": "#ff3860",
   "icons": [{
@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/en/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

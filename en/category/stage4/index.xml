@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stage4 | Academic</title>
-    <link>https://example.com/en/category/stage4/</link>
-      <atom:link href="https://example.com/en/category/stage4/index.xml" rel="self" type="application/rss+xml" />
+    <title>Stage4 | Website</title>
+    <link>https://anpolienko.github.io/category/stage4/</link>
+      <atom:link href="https://anpolienko.github.io/category/stage4/index.xml" rel="self" type="application/rss+xml" />
     <description>Stage4</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anpolienko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Stage4</title>
-      <link>https://example.com/en/category/stage4/</link>
+      <link>https://anpolienko.github.io/category/stage4/</link>
     </image>
     
     <item>
       <title>How to Make a Presentation</title>
-      <link>https://example.com/en/post/presentation-post/</link>
+      <link>https://anpolienko.github.io/post/presentation-post/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/presentation-post/</guid>
+      <guid>https://anpolienko.github.io/post/presentation-post/</guid>
       <description>&lt;p&gt;A presentation goes beyond the idea of crafting a catchy document to present in front of an audience. It is an art in which a person relies on communication skills to introduce a topic relevant to a group of people, regardless of its size. Different elements participate in this communication process, such as body language, presentation skills, visual tools, etc. and are key in delivering an effective presentation.&lt;/p&gt;
 &lt;p&gt;In this article, we shall present a detailed guide on how to make a presentation, intended both for newcomers in this subject but also for professional presenters who seek to improve the performance of their presentations. Let’s get started.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-presentation-and-what-is-a-powerpoint-presentation&#34;&gt;What is a presentation, and what is a PowerPoint presentation?&lt;/h2&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>New Week New Recipe</title>
-      <link>https://example.com/en/post/third-post/</link>
+      <link>https://anpolienko.github.io/post/third-post/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/third-post/</guid>
+      <guid>https://anpolienko.github.io/post/third-post/</guid>
       <description>&lt;h2 id=&#34;my-week-3&#34;&gt;My week. 3.&lt;/h2&gt;
 &lt;p&gt;When life gives you mint leaves, what do you make? This mint mojito recipe!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;INGREDIENTS:&lt;/strong&gt;&lt;/p&gt;

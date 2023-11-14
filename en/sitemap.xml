@@ -2,479 +2,487 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/example-talk/</loc>
+    <loc>https://anpolienko.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/talk/example-talk/"
+                href="https://anpolienko.github.io/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/talk/example-talk/"
+                hreflang="en"
+                href="https://anpolienko.github.io/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://anpolienko.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/event/"
+                href="https://anpolienko.github.io/event/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/event/"
+                hreflang="en"
+                href="https://anpolienko.github.io/event/"
                 />
   </url><url>
-    <loc>https://example.com/tag/academic/</loc>
+    <loc>https://anpolienko.github.io/tag/academic/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tag/academic/"
+                href="https://anpolienko.github.io/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tag/academic/"
+                hreflang="en"
+                href="https://anpolienko.github.io/tag/academic/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://anpolienko.github.io/categories/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/categories/"
+                href="https://anpolienko.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/categories/"
+                hreflang="en"
+                href="https://anpolienko.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/post/presentation-post/</loc>
+    <loc>https://anpolienko.github.io/post/fourth-post/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://anpolienko.github.io/post/presentation-post/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/presentation-post/"
+                href="https://anpolienko.github.io/post/presentation-post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/post/presentation-post/"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/presentation-post/"
                 />
   </url><url>
-    <loc>https://example.com/post/third-post/</loc>
+    <loc>https://anpolienko.github.io/post/third-post/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/third-post/"
+                href="https://anpolienko.github.io/post/third-post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/post/third-post/"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/third-post/"
                 />
   </url><url>
-    <loc>https://example.com/tag/personal/</loc>
+    <loc>https://anpolienko.github.io/tag/personal/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tag/personal/"
+                href="https://anpolienko.github.io/tag/personal/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tag/personal/"
+                hreflang="en"
+                href="https://anpolienko.github.io/tag/personal/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://anpolienko.github.io/post/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/"
+                href="https://anpolienko.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/post/"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/"
                 />
   </url><url>
-    <loc>https://example.com/category/stage4/</loc>
+    <loc>https://anpolienko.github.io/category/stage4/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/category/stage4/"
+                href="https://anpolienko.github.io/category/stage4/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/category/stage4/"
+                hreflang="en"
+                href="https://anpolienko.github.io/category/stage4/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://anpolienko.github.io/category/stage5/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://anpolienko.github.io/tags/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/"
+                href="https://anpolienko.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tags/"
+                hreflang="en"
+                href="https://anpolienko.github.io/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/latex-post/</loc>
+    <loc>https://anpolienko.github.io/post/latex-post/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/latex-post/"
+                href="https://anpolienko.github.io/post/latex-post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/post/latex-post/"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/latex-post/"
                 />
   </url><url>
-    <loc>https://example.com/post/second-post/</loc>
+    <loc>https://anpolienko.github.io/post/second-post/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/second-post/"
+                href="https://anpolienko.github.io/post/second-post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/post/second-post/"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/second-post/"
                 />
   </url><url>
-    <loc>https://example.com/category/stage3/</loc>
+    <loc>https://anpolienko.github.io/category/stage3/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/category/stage3/"
+                href="https://anpolienko.github.io/category/stage3/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/category/stage3/"
+                hreflang="en"
+                href="https://anpolienko.github.io/category/stage3/"
                 />
   </url><url>
-    <loc>https://example.com/post/first-post/</loc>
+    <loc>https://anpolienko.github.io/post/first-post/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/first-post/"
+                href="https://anpolienko.github.io/post/first-post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/post/first-post/"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/first-post/"
                 />
   </url><url>
-    <loc>https://example.com/category/stage2/</loc>
+    <loc>https://anpolienko.github.io/category/stage2/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/category/stage2/"
+                href="https://anpolienko.github.io/category/stage2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/category/stage2/"
+                hreflang="en"
+                href="https://anpolienko.github.io/category/stage2/"
                 />
   </url><url>
-    <loc>https://example.com/post/git-post/</loc>
+    <loc>https://anpolienko.github.io/post/git-post/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/git-post/"
+                href="https://anpolienko.github.io/post/git-post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/post/git-post/"
+                hreflang="en"
+                href="https://anpolienko.github.io/post/git-post/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://anpolienko.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/"
+                href="https://anpolienko.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/"
+                hreflang="en"
+                href="https://anpolienko.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
+    <loc>https://anpolienko.github.io/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication-type/3/"
+                href="https://anpolienko.github.io/publication-type/3/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/publication-type/3/"
+                hreflang="en"
+                href="https://anpolienko.github.io/publication-type/3/"
                 />
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
+    <loc>https://anpolienko.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/preprint/"
+                href="https://anpolienko.github.io/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/publication/preprint/"
+                hreflang="en"
+                href="https://anpolienko.github.io/publication/preprint/"
                 />
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://anpolienko.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication_types/"
+                href="https://anpolienko.github.io/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/publication_types/"
+                hreflang="en"
+                href="https://anpolienko.github.io/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://anpolienko.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/"
+                href="https://anpolienko.github.io/publication/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/publication/"
+                hreflang="en"
+                href="https://anpolienko.github.io/publication/"
                 />
   </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
+    <loc>https://anpolienko.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tag/source-themes/"
+                href="https://anpolienko.github.io/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tag/source-themes/"
+                hreflang="en"
+                href="https://anpolienko.github.io/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>https://anpolienko.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/slides/"
+                href="https://anpolienko.github.io/slides/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/slides/"
+                hreflang="en"
+                href="https://anpolienko.github.io/slides/"
                 />
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
+    <loc>https://anpolienko.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/slides/example/"
+                href="https://anpolienko.github.io/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/slides/example/"
+                hreflang="en"
+                href="https://anpolienko.github.io/slides/example/"
                 />
   </url><url>
-    <loc>https://example.com/tag/deep-learning/</loc>
+    <loc>https://anpolienko.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tag/deep-learning/"
+                href="https://anpolienko.github.io/tag/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tag/deep-learning/"
+                hreflang="en"
+                href="https://anpolienko.github.io/tag/deep-learning/"
                 />
   </url><url>
-    <loc>https://example.com/tag/demo/</loc>
+    <loc>https://anpolienko.github.io/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tag/demo/"
+                href="https://anpolienko.github.io/tag/demo/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tag/demo/"
+                hreflang="en"
+                href="https://anpolienko.github.io/tag/demo/"
                 />
   </url><url>
-    <loc>https://example.com/project/example/</loc>
+    <loc>https://anpolienko.github.io/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/project/example/"
+                href="https://anpolienko.github.io/project/example/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/project/example/"
+                hreflang="en"
+                href="https://anpolienko.github.io/project/example/"
                 />
   </url><url>
-    <loc>https://example.com/project/external-project/</loc>
+    <loc>https://anpolienko.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/project/external-project/"
+                href="https://anpolienko.github.io/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/project/external-project/"
+                hreflang="en"
+                href="https://anpolienko.github.io/project/external-project/"
                 />
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://anpolienko.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/project/"
+                href="https://anpolienko.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/project/"
+                hreflang="en"
+                href="https://anpolienko.github.io/project/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
+    <loc>https://anpolienko.github.io/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication-type/2/"
+                href="https://anpolienko.github.io/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/publication-type/2/"
+                hreflang="en"
+                href="https://anpolienko.github.io/publication-type/2/"
                 />
   </url><url>
-    <loc>https://example.com/publication/journal-article/</loc>
+    <loc>https://anpolienko.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/journal-article/"
+                href="https://anpolienko.github.io/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/publication/journal-article/"
+                hreflang="en"
+                href="https://anpolienko.github.io/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
+    <loc>https://anpolienko.github.io/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication-type/1/"
+                href="https://anpolienko.github.io/publication-type/1/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/publication-type/1/"
+                hreflang="en"
+                href="https://anpolienko.github.io/publication-type/1/"
                 />
   </url><url>
-    <loc>https://example.com/publication/conference-paper/</loc>
+    <loc>https://anpolienko.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/publication/conference-paper/"
+                href="https://anpolienko.github.io/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/publication/conference-paper/"
+                hreflang="en"
+                href="https://anpolienko.github.io/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://anpolienko.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/admin/"
+                href="https://anpolienko.github.io/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/admin/"
+                hreflang="en"
+                href="https://anpolienko.github.io/admin/"
                 />
   </url>
 </urlset>

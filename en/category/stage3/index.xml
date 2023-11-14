@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stage3 | Academic</title>
-    <link>https://example.com/en/category/stage3/</link>
-      <atom:link href="https://example.com/en/category/stage3/index.xml" rel="self" type="application/rss+xml" />
+    <title>Stage3 | Website</title>
+    <link>https://anpolienko.github.io/category/stage3/</link>
+      <atom:link href="https://anpolienko.github.io/category/stage3/index.xml" rel="self" type="application/rss+xml" />
     <description>Stage3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anpolienko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Stage3</title>
-      <link>https://example.com/en/category/stage3/</link>
+      <link>https://anpolienko.github.io/category/stage3/</link>
     </image>
     
     <item>
       <title>LaTeX</title>
-      <link>https://example.com/en/post/latex-post/</link>
+      <link>https://anpolienko.github.io/post/latex-post/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/latex-post/</guid>
+      <guid>https://anpolienko.github.io/post/latex-post/</guid>
       <description>&lt;h2 id=&#34;latex&#34;&gt;LaTeX&lt;/h2&gt;
 &lt;p&gt;LaTeX, software used for typesetting technical documents.&lt;/p&gt;
 &lt;p&gt;LaTeX is a free software package created in 1985 by the American computer scientist Leslie Lamport as an addition to the TeX typesetting system. LaTeX was created to make it easier to produce general-purpose books and articles within TeX. Because LaTeX is an extension to the TeX typesetting system, it has TeX’s ability to typeset technical documents that contain complex mathematical equations. This feature made LaTeX popular with scientists and engineers. (Because the name TeX actually consists of the Greek letters tau, epsilon, and chi, it is pronounced /tekh/.)&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Let&#39;s continue our journey</title>
-      <link>https://example.com/en/post/second-post/</link>
+      <link>https://anpolienko.github.io/post/second-post/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/second-post/</guid>
+      <guid>https://anpolienko.github.io/post/second-post/</guid>
       <description>&lt;h2 id=&#34;my-week-2&#34;&gt;My week. 2.&lt;/h2&gt;
 &lt;p&gt;October continues. Today let&amp;rsquo;s talk about my favotite coctail - Gin &amp;amp; Tonic.&lt;/p&gt;
 &lt;p&gt;Gin &amp;amp; Tonic. If you can say it, you can make it. Right? Right. But also, not exactly. The two-ingredient cocktail requires your undivided attention. From glassware to garnish to style of gin and spirit proof, everything should be carefully considered when mixing a G&amp;amp;T.&lt;/p&gt;

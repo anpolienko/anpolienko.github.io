@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal | Сайтик</title>
-    <link>https://example.com/ru/tag/personal/</link>
-      <atom:link href="https://example.com/ru/tag/personal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anpolienko.github.io/tag/personal/</link>
+      <atom:link href="https://anpolienko.github.io/tag/personal/index.xml" rel="self" type="application/rss+xml" />
     <description>Personal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anpolienko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Personal</title>
-      <link>https://example.com/ru/tag/personal/</link>
+      <link>https://anpolienko.github.io/tag/personal/</link>
     </image>
     
     <item>
       <title>New Week New Recipe</title>
-      <link>https://example.com/ru/post/third-post/</link>
+      <link>https://anpolienko.github.io/post/third-post/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/third-post/</guid>
+      <guid>https://anpolienko.github.io/post/third-post/</guid>
       <description>&lt;h2 id=&#34;my-week-3&#34;&gt;My week. 3.&lt;/h2&gt;
 &lt;p&gt;When life gives you mint leaves, what do you make? This mint mojito recipe!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;INGREDIENTS:&lt;/strong&gt;&lt;/p&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Let&#39;s continue our journey</title>
-      <link>https://example.com/ru/post/second-post/</link>
+      <link>https://anpolienko.github.io/post/second-post/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/second-post/</guid>
+      <guid>https://anpolienko.github.io/post/second-post/</guid>
       <description>&lt;h2 id=&#34;my-week-2&#34;&gt;My week. 2.&lt;/h2&gt;
 &lt;p&gt;October continues. Today let&amp;rsquo;s talk about my favotite coctail - Gin &amp;amp; Tonic.&lt;/p&gt;
 &lt;p&gt;Gin &amp;amp; Tonic. If you can say it, you can make it. Right? Right. But also, not exactly. The two-ingredient cocktail requires your undivided attention. From glassware to garnish to style of gin and spirit proof, everything should be carefully considered when mixing a G&amp;amp;T.&lt;/p&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>Hello, world</title>
-      <link>https://example.com/ru/post/first-post/</link>
+      <link>https://anpolienko.github.io/post/first-post/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/first-post/</guid>
+      <guid>https://anpolienko.github.io/post/first-post/</guid>
       <description>&lt;h2 id=&#34;my-week-1&#34;&gt;My week. 1.&lt;/h2&gt;
 &lt;p&gt;October started. You can see how i designed my bullet journal for this month.&lt;/p&gt;
 &lt;p&gt;And here&amp;rsquo;s a mulled wine recipe to help you survive autumn.&lt;/p&gt;

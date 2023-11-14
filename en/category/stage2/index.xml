@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stage2 | Academic</title>
-    <link>https://example.com/en/category/stage2/</link>
-      <atom:link href="https://example.com/en/category/stage2/index.xml" rel="self" type="application/rss+xml" />
+    <title>Stage2 | Website</title>
+    <link>https://anpolienko.github.io/category/stage2/</link>
+      <atom:link href="https://anpolienko.github.io/category/stage2/index.xml" rel="self" type="application/rss+xml" />
     <description>Stage2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anpolienko.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Stage2</title>
-      <link>https://example.com/en/category/stage2/</link>
+      <link>https://anpolienko.github.io/category/stage2/</link>
     </image>
     
     <item>
       <title>Hello, world</title>
-      <link>https://example.com/en/post/first-post/</link>
+      <link>https://anpolienko.github.io/post/first-post/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/first-post/</guid>
+      <guid>https://anpolienko.github.io/post/first-post/</guid>
       <description>&lt;h2 id=&#34;my-week-1&#34;&gt;My week. 1.&lt;/h2&gt;
 &lt;p&gt;October started. You can see how i designed my bullet journal for this month.&lt;/p&gt;
 &lt;p&gt;And here&amp;rsquo;s a mulled wine recipe to help you survive autumn.&lt;/p&gt;
@@ -53,9 +53,9 @@ Full ingredient amounts/instructions listed in the recipe below.&lt;/li&gt;
     
     <item>
       <title>Version Control System. Git.</title>
-      <link>https://example.com/en/post/git-post/</link>
+      <link>https://anpolienko.github.io/post/git-post/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/git-post/</guid>
+      <guid>https://anpolienko.github.io/post/git-post/</guid>
       <description>&lt;h2 id=&#34;version-control-system-git&#34;&gt;Version Control System. Git.&lt;/h2&gt;
 &lt;p&gt;Version Control Systems (VCS) are used when several people work on one project. Typically, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the content of the project, the version control system allows you to record them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
 &lt;p&gt;Classic version control systems use a centralized model, which involves a single repository for storing files. Most version control functions are performed by a dedicated server. Before starting work, a project participant (user) receives the version of files he needs using certain commands. After making changes, the user posts the new version to the repository. However, previous versions are not deleted from the central storage and can be returned to at any time. The server can not save the full version of the changed files, but perform so-called delta compression - saving only changes between successive versions, which allows reducing the amount of stored data.&lt;/p&gt;
